@@ -1,51 +1,43 @@
-# CSI606 - Sistemas Web I
+# CSI477 – Sistemas Web I (UFOP)
 
-## Lecture Notes and Codes
-
-### *Prof. Fernando Bernardes de Oliveira, Ph.D.*
-
-#### [Department of Computer and Systems (DECSI)](https://decsi.ufop.br/)
+Projeto e materiais da disciplina, desenvolvidos em conjunto com o professor em sala de aula.
 
 ---
 
-Here are available lecture notes and codes on CSI606 - Sistemas Web I course at [Universidade Federal de Ouro Preto (UFOP)](http://www.ufop.br). Semester 2025/02.
+## 📌 Visão Geral
 
----
+Este repositório contém os códigos, exercícios, materiais de aula e o projeto final da disciplina **CSI477 – Sistemas Web I**, da Universidade Federal de Ouro Preto (UFOP). O foco é a aplicação prática dos conceitos de desenvolvimento web (frontend, backend, banco de dados) aprendidos em sala.
 
-**Lectures and additional resources:**
+## 📚 Conteúdo do Repositório
 
-1. [Setting up development environment: Node.js](./Lectures/setting-environment-nodejs.md)
-1. [Frontend](./Lectures/frontend.md)
-1. [HTML](./Lectures/html.md)
-1. [XML](./Lectures/xml.md)
-1. [JSON](./Lectures/json.md)
-1. [Markdown](./Lectures/markdown.md)
-1. [Git and GitHub](./Lectures/git-and-github.md)
-1. [Create the GitHub/Classroom repository](./Lectures/create-classroom-repository.md)
-1. [Cascading Style Sheets - CSS](./Lectures/css.md)
-1. [JavaScript](./Lectures/javascript.md)
-1. [JavaScript ES6 and beyond](./Lectures/jses6-and-beyond.md)
-1. [Node.js](./Lectures/nodejs.md)
-1. [Node.js Project](./Lectures/nodejs-project.md)
-1. [TypeScript](./Lectures/typescript.md)
-1. [React](./Lectures/react.md)
-1. [Next.js](./Lectures/nextjs.md)
-1. [Instructions to the Final Project](./LessonScripts/project/roteiro-trabalho-final.md)
+* `/Codes`
+* `/Lectures`
+* `/LessonScripts/project`
+* `/Templates`
 
-Previous technologies:
+## 🛠️ Tecnologias Principais
 
-1. [PHP](./Lectures/php.md)
-1. [Laravel](./Lectures/laravel.md)
+* **Frontend**: HTML, CSS, JavaScript (ES6+)
+* **Backend**: Node.js, Express (ou outra stack definida em aula)
+* **Banco de Dados**: MySQL, PostgreSQL (ou outro)
+* **Controle de Versão**: Git / GitHub
 
----
+## 🚀 Como Executar
 
-License: [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+1.  Clone o repositório:
+    ```bash
+    git clone [https://github.com/ViniciusAndradeCosta/CSI477-SistemasWeb-I.git](https://github.com/ViniciusAndradeCosta/CSI477-SistemasWeb-I.git)
+    ```
+2.  Acesse o diretório:
+    ```bash
+    cd CSI477-SistemasWeb-I
+    ```
+3.  Instale as dependências (se aplicável ao projeto):
+    ```bash
+    npm install
+    ```
+4.  Siga as instruções específicas de cada projeto/exercício para executar (ex: abrir o `index.html` no navegador ou iniciar o servidor).
 
-Best regards,  
-Fernando B Oliveira.
+## 📄 Licença e Contribuição
 
-[Contact and info.](mailto:fboliveira@ufop.edu.br)
-
----
-
-![May the force be with you!](https://media.giphy.com/media/SW52VX6Xtzk1q/giphy.gif)
+Este é um repositório de um projeto acadêmico desenvolvido sob orientação docente. Para contribuições, por favor, siga as diretrizes estabelecidas pela disciplina. A licença de uso é definida pela instituição ou pelo professor responsável.
